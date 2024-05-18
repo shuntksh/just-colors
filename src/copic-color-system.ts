@@ -1,8 +1,6 @@
 /**
- * A collection of lookup table for the Copic color system. Used ChatGPT to convert the list
- * of colors from the official Copic website.
+ * A collection of lookup table for the Copic color system.
  * @see: https://copic.jp/about/color-system/
- * @see: https://www.jennyscrayoncollection.com/2022/01/complete-list-of-copic-markers.html
  */
 
 /**
